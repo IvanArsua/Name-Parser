@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\bin\Debug\IvanArsua.NameParser.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\bin\Debug\IvanArsua.NameParser.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\bin\Debug\IvanArsua.NameParser.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Name Parser\IvanArsua.NameParser\obj\Debug\IvanArsua.NameParser.pdb
